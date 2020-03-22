@@ -2,7 +2,7 @@
   "name": "@types/elastic__apm-rum-react",
   "version": "1.0.0",
   "description": "Typescript typings for Elasticsearch apm-rum-react",
-  "main": "index.js",
+  "main": "index.d.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
