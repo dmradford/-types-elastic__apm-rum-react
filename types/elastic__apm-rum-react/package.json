@@ -1,0 +1,26 @@
+{
+  "name": "@types/elastic__apm-rum-react",
+  "version": "1.0.0",
+  "description": "Typescript typings for Elasticsearch apm-rum-react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dmradford/-types-elastic__apm-rum-react.git"
+  },
+  "keywords": [
+    "typescript",
+    "type",
+    "elastic",
+    "apm-rum-react",
+    "elasticsearch"
+  ],
+  "author": "Dobes Vandermeer, David Radford",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/dmradford/-types-elastic__apm-rum-react/issues"
+  },
+  "homepage": "https://github.com/n/a#readme"
+}
